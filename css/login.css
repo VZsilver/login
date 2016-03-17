@@ -1,0 +1,30 @@
+.log-header{
+   margin-left: 380px;
+
+}
+.log{
+    color: #ffffff;
+    font-size:45px;
+
+}
+.yellow{
+    color: #ffee99;
+}
+.slog{
+    color: #ffffff;
+    margin-left: 62px;
+}
+.widget-body{
+    background-color:rgba(36,78,101,0.2);/*登录框颜色*/
+    border:rgb(36,78,101);
+}
+.login-box .toolbar {
+    background: rgba(80,144,193,0.1);/*下边框颜色*/
+
+}
+.login-container {
+    width: 375px;
+    margin-top:-10px;
+    margin-left: 460px;
+
+}
